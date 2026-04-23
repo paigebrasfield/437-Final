@@ -55,10 +55,11 @@ The user will upload their PDF resume though a web interface. The application wi
 
 #### How to Run
 1. Open Cloud Run URL
-2. Upload resume
-3. Navigate to /search
-4. Search for candidates using key words/skills
-5. View results in BigQuery
+   - Use the top URL
+3. Upload resume
+4. Navigate to /search
+5. Search for candidates using key words/skills
+6. View results in BigQuery
 
 
 
